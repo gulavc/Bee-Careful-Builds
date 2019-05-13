@@ -14,6 +14,7 @@ Bee Careful was realized as part of a Specialized Graduate Degree in Game Design
 
 ## How to play
 Download the repository (Clone or download -> Download ZIP)
+
 ![DOWNLOAD INSTRUCTIONS](https://i.imgur.com/R67m5Ke.png "Download Instructions")
 
 Extract the files and run "Bee Careful.exe"
